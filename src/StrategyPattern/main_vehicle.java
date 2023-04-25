@@ -1,6 +1,6 @@
 package StrategyPattern;
 
-public class Main {
+public class main_vehicle {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
